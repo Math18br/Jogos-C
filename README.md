@@ -1,6 +1,8 @@
 # Jogos-C
 Trabalho avaliativo em C proposto na faculdade pela matéria "Laboratório de programação C"
 
+Equipe: Matheus Leão, Roberto Bezerra e Fábio Monteiro
+
 A aplicação consiste em um menu onde você pode escolher entre 2 jogos: Perguntas e respostas, ou cobra na caixa
 
 1 - Perguntas e respostas: 
